@@ -63,3 +63,9 @@ The main components of the project include:
 - `Hostel` class: Represents a hostel with a name, number of beds, and fee per bed.
 - MySQL connection setup: Establishes a connection to the MySQL database.
 - Main loop: Provides a menu for reserving beds and exiting the system.
+## Contributing
+Contributions are welcome! Please fork the repository and submit a pull request with your changes.
+## Acknowledgments
+MySQL documentation
+C++ reference documentation
+Open-source community
