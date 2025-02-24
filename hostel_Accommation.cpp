@@ -8,7 +8,7 @@ using namespace std;
 
 const char* HOST ="localhost";
 const char* USER="root";
-const char* PW ="Sum@123#";// password
+const char* PW ="";// password
 const char* DB ="mydb";// database name
 
 class Hostel{
